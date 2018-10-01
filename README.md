@@ -2,6 +2,10 @@
 
 ## How To Setup
 
+### Dnsmasq
+
+- Install and setup [Dnsmasq](https://passingcuriosity.com/2013/dnsmasq-dev-osx/)
+
 **Docker Setup**
 
 - Once that you have download the repository, open that folder via terminal
